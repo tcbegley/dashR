@@ -5,3 +5,4 @@ Makefile
 announcement\.Rmd
 todo\.txt
 .github
+^.*\.md$
